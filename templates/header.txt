@@ -1,0 +1,7 @@
+Cottage Connects - { date }
+
+TABLE OF CONTENTS:
+
+{  table_of_contents }
+
+BEGIN DIGEST:

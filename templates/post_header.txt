@@ -1,0 +1,3 @@
+--------------------
+{ index }. { subject }
+From: { sender_name } <{ sender_addres }>
